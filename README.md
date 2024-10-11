@@ -1,6 +1,14 @@
-# Final POO
+# Project: Society Management Application
 
-This is a project to take the final of Object Oriented Programming (OOP)
+
+I developed a society management application using Java and Spring Boot. The application provides a platform for managing various activities and booking hotel reservations. Users can create and participate in activities organized by the society, such as events, workshops, and meetings. Additionally, the system allows members to easily book hotels for these events directly through the platform, ensuring seamless coordination.
+
+Key features of the project include:
+
+Activity Management: Users can create, edit, and delete activities.
+Hotel Booking: Members can reserve hotel rooms associated with activities.
+User-friendly interface: Simple navigation and clear workflows for users to interact with.
+This project aims to improve the efficiency of society management and enhance the user experience in organizing and attending events.
 
 ## Screenshots
 
@@ -43,14 +51,5 @@ To run this project, you will need to modify your application.properties file:
 
 ## Authors
 
-- [@Juan Ignacio Caprioli (ChanoChoca)](https://github.com/ChanoChoca)
-- [@José Matías Fernandez (JmatiF)](https://github.com/JmatiF)
+- [@Luis Francisco Martinez (Francisco9403)](https://github.com/Francisco9403)
 
-
-## Badges
-
-[//]: # (Add badges from somewhere like: [shields.io]&#40;https://shields.io/&#41;)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
